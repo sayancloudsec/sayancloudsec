@@ -12,6 +12,9 @@
 - Web and network testing with Burp Suite, Nmap and Wireshark
 
 ## Projects
+<p align="center">
+  <img src="./raven-animation.svg" alt="RAVEN pipeline: mic, speech-to-text, AI agent with PiCamera vision, text-to-speech, speaker" width="100%">
+</p>
 - [RAVEN](https://github.com/SayanMondalCyber/IOT-based-AI-agent): voice and vision AI assistant on Raspberry Pi
 - Coming next: Terraform secure AWS baseline with Checkov in CI
 
