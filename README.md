@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./cloud-security.svg" alt="Animated cloud security diagram" width="100%">
+</p>
 # Hi, I'm Sayan Mondal 👋
 
 **Aspiring Cloud Security Engineer** | B.Tech CSE (Cyber Security), 2026
