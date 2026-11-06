@@ -20,7 +20,7 @@
 - [RAVEN](https://github.com/sayancloudsec/IOT-based-AI-agent): voice and vision AI assistant on Raspberry Pi
 
 <p align="center">
-  <img src="./aws-scanner-animation.svg" alt="AWS Misconfiguration Scanner: AWS account, Python boto3 scanner, S3, IAM MFA and security group checks, JSON report" width="100%">
+  <img src="./aws-scanner-animation_1.svg" alt="AWS Misconfiguration Scanner: AWS account, Python boto3 scanner, S3, IAM MFA and security group checks, JSON report" width="100%">
 </p>
 
 - [AWS Misconfiguration Scanner](https://github.com/sayancloudsec/AWS-misconfiguration-scanner): Python and boto3 tool that finds public S3 buckets, IAM users without MFA, and security groups open to the internet, with severity-ranked JSON reports
