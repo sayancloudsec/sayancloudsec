@@ -12,12 +12,20 @@
 - Web and network testing with Burp Suite, Nmap and Wireshark
 
 ## Projects
+
 <p align="center">
   <img src="./raven-animation.svg" alt="RAVEN pipeline: mic, speech-to-text, AI agent with PiCamera vision, text-to-speech, speaker" width="100%">
 </p>
-- [RAVEN](https://github.com/sayancloudsec/IOT-based-AI-agent): voice and vision AI assistant on Raspberry Pi
-- Coming next: Terraform secure AWS baseline with Checkov in CI
 
+- [RAVEN](https://github.com/sayancloudsec/IOT-based-AI-agent): voice and vision AI assistant on Raspberry Pi
+
+<p align="center">
+  <img src="./aws-scanner-animation.svg" alt="AWS Misconfiguration Scanner: AWS account, Python boto3 scanner, S3, IAM MFA and security group checks, JSON report" width="100%">
+</p>
+
+- [AWS Misconfiguration Scanner](https://github.com/sayancloudsec/AWS-misconfiguration-scanner): Python and boto3 tool that finds public S3 buckets, IAM users without MFA, and security groups open to the internet, with severity-ranked JSON reports
+- Coming next: Terraform secure AWS baseline with Checkov in CI
+- 
 ## Currently learning
 - [e.g. Terraform, AWS Security fundamentals]
 
