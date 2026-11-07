@@ -25,7 +25,7 @@
 
 - [AWS Misconfiguration Scanner](https://github.com/sayancloudsec/AWS-misconfiguration-scanner): Python and boto3 tool that finds public S3 buckets, IAM users without MFA, and security groups open to the internet, with severity-ranked JSON reports
 - Coming next: Terraform secure AWS baseline with Checkov in CI
-- 
+  
 ## Currently learning
 - [e.g. Terraform, AWS Security fundamentals]
 
