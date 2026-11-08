@@ -25,6 +25,10 @@
 
 - [AWS Misconfiguration Scanner](https://github.com/sayancloudsec/AWS-misconfiguration-scanner): Python and boto3 tool that finds public S3 buckets, IAM users without MFA, and security groups open to the internet, with severity-ranked JSON reports
 - Coming next: Terraform secure AWS baseline with Checkov in CI
+
+<p align="center"> <img src="./terraform-devsecops-animation.svg" alt="Terraform DevSecOps pipeline: an insecure Terraform change is scanned by Checkov and blocked, while a secure change passes and merges into main" width="100%"> </p>
+
+- [Terraform DevSecOps Pipeline](https://github.com/sayancloudsec/terraform-devsecops-pipeline): CI pipeline that scans Terraform with Checkov on every pull request and blocks insecure changes from merging into main, using GitHub Actions and a branch ruleset
   
 ## Currently learning
 - [e.g. Terraform, AWS Security fundamentals]
